@@ -22,11 +22,11 @@ A simple console-based Library Management System written in Python. This project
 
 ---
 
-## 📂 File Structure
-📁 LMS/
-│
-├── library.py
-└── README.md
+## 📂 File Structure <br/>
+📁 LMS/ <br/>
+│<br/>
+├── library.py<br/>
+└── README.md<br/>
 
 ## ▶️ How to Run
 
