@@ -23,4 +23,16 @@ A simple console-based Library Management System written in Python. This project
 ---
 
 ## 📂 File Structure
+📁 LMS/
+│
+├── library.py
+└── README.md
+
+## ▶️ How to Run
+
+1. **Clone this repository**  
+   ```bash
+   git clone https://github.com/imranhossenme/LMS.git
+   cd LMS
+
 
